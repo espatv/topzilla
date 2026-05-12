@@ -22,4 +22,5 @@ TopZilla muestra rankings, información y vídeos relacionados de películas y s
 - MD5: ff8e28f01b6fa9900afab303468ba1ba
 
 <br>
+>
 > This repository and the TopZilla Kodi Addon do NOT host, contain, provide, or distribute any copyrighted video, audio, or multimedia content. TopZilla is a metadata browser and movie encyclopedia (fetching data such as posters, synopsis, and cast). Video playback is delegated entirely to third-party addons like YouTube solely for the purpose of viewing trailers.
